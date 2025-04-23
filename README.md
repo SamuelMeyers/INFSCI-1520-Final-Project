@@ -28,7 +28,7 @@ We explore how mental distress and cognitive decline affect older adults (65+) a
 
 ## 🧪 Data and Methods
 
-- **Source**: Alzheimer’s Disease and Healthy Aging Data [(https://www.kaggle.com/datasets/daniilkrasnoproshin/alzheimers-disease-and-healthy-aging-data)]
+- **Source**: Kaggle's Alzheimer’s Disease and Healthy Aging Data [(https://www.kaggle.com/datasets/daniilkrasnoproshin/alzheimers-disease-and-healthy-aging-data)]
 - **Filtered for**:
   - Adults aged 65+
   - All U.S. states (excluding D.C. and Guam)
